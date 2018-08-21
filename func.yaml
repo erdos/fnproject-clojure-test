@@ -1,0 +1,4 @@
+name: fnproject-clojure-test
+version: 0.1.35
+runtime: Docker
+format: http
